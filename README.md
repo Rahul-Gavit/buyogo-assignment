@@ -2,7 +2,7 @@
 you can check out mock data for testing the application working fine . /src/mocks
 to run application you can dawoload or clone that git repository
 then run => `npm install` for dawonloading needed pakages
-then run => `npm start` to run the application
+then run => `npm start` to run the application. Also you can test application directly on that link: `https://buyogo-assignment.vercel.app/`
 
 # BuyogoAssignment
 
